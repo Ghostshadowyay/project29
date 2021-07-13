@@ -1,0 +1,27 @@
+#section1 {
+  text-align:center;
+  background-repeat:no-repeat;
+ background:linear-gradient(#7C4DFF 0%,#2979FF 100%);
+}
+img {
+  border-radius: 50%;
+}
+#text{
+  text-shadow: 1px 1px #7C4DFF;
+}
+.links{
+    float:left;
+    color:yellowgreen;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:9px;
+    padding-left:9px;
+    font-family:fantasy;
+}
+.links:hover{
+    background-color:beige;
+}
+
+body {
+text-align:center;
+}
